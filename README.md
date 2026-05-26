@@ -21,6 +21,7 @@ Currently learning development, and my tech skills are still growing...
 - GitHub: [Note-Block](https://github.com/Note-Block)
   
   ```Please use Telegram to contact me frist.```
+---
 
 ## Learning and using
 <p align="left"> 
