@@ -57,13 +57,9 @@ Currently learning development, and my tech skills are still growing...
 ---
 
 <p align="left">
-<table>
-    <ul style="list-style-type:none;">
-        <li><img src="https://github-readme-stats-indol-tau-70.vercel.app/api/top-langs/?username=Note-Block&layout=compact&theme=tokyonight" alt="Langs"></li>
-        <li><img src="https://github-readme-stats-indol-tau-70.vercel.app/api?username=Note-Block&show_icons=true&theme=tokyonight" alt="Stats"></li>
-        <li><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Note-Block&theme=tokyonight&hide_border=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF&short_numbers=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a></li>
-    </ul>
-</table>
+        ><img src="https://github-readme-stats-indol-tau-70.vercel.app/api/top-langs/?username=Note-Block&layout=compact&theme=tokyonight" alt="Langs">
+        <img src="https://github-readme-stats-indol-tau-70.vercel.app/api?username=Note-Block&show_icons=true&theme=tokyonight" alt="Stats">
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Note-Block&theme=tokyonight&hide_border=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF&short_numbers=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 
 </p>
 
