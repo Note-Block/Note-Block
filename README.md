@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 Please call me "盒盒" (pronounced just like "hehe"). It's a silly nickname I randomly came up with when I was a kid...
 
-The name "Note_Block" comes from a Redstone block in Minecraft, and "盒盒" is a shorthand version of its Chinese translation
+The name "Note_Block" comes from a block in Minecraft, and "盒盒" is a shorthand version of its Chinese translation
 
 Currently learning development, and my tech skills are still growing... 
 
