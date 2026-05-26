@@ -20,7 +20,7 @@ Currently learning development, and my tech skills are still growing...
 - Bilibili: [盒盒Note_Block](https://space.bilibili.com/387508027)
 - GitHub: [Note-Block](https://github.com/Note-Block)
   
-  ```Please use Telegram toi contact me frist.```
+  ```Please use Telegram to contact me frist.```
 
 ## Learning and using
 <p align="left"> 
