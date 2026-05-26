@@ -19,7 +19,7 @@ Currently learning development, and my tech skills are still growing...
 - X: [@TheNote_Block](https://x.com/TheNote_Block)
 - Bilibili: [盒盒Note_Block](https://space.bilibili.com/387508027)
 - GitHub: [Note-Block](https://github.com/Note-Block)
-
+  ```Please contact me via Telegram frist```
 
 ## Learning and using
 <p align="left"> 
