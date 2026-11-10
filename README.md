@@ -18,7 +18,7 @@ Currently learning development, and my tech skills are still growing...
 - Telegram: [@The_Note_Block](https://t.me/The_Note_Block)
 - X: [@TheNote_Block](https://x.com/TheNote_Block)
 - Bilibili: [盒盒Note_Block](https://space.bilibili.com/387508027)
-- GitHub: [Note-Block](https://github.com/Note-Block)
+- GitHub: [Note-Block](https://github.com/Note-Block) ```/tp @s```
 ---
 
 ## Learning and using
